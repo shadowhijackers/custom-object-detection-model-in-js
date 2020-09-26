@@ -113,4 +113,4 @@ function getResult(err, results) {
 after that when you upload image it will show the resulst in alert box.
 
 
-Finally we have come to conclustion i this blog will be helpfull to you and enjoyed. if i missed anything or showed as wrong pls comment it. 
+Finally we have come to the conclusion. By using the pretrained model for detecting the image it won't help you some time when your requirement of detecting objects is not matching .  This blog will be helpful to you and enjoyed. if i missed anything or shown as wrong pls comment it.
